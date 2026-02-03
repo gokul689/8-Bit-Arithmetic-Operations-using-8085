@@ -135,7 +135,8 @@ HLT
 ```
 
 ### Output:
-<img width="1820" height="947" alt="image" src="https://github.com/user-attachments/assets/341d3e96-54bb-48c0-a6f2-1b0a398f4ad3" />
+<img width="1828" height="938" alt="Screenshot 2026-02-02 210805" src="https://github.com/user-attachments/assets/b6eadc7b-629b-4453-ba7f-1be0182e0387" />
+
 <img width="1820" height="947" alt="Screenshot 2026-02-02 210824" src="https://github.com/user-attachments/assets/67f03569-2d5b-40d3-8a7d-3eef36292f12" />
 
 # STEPS:
